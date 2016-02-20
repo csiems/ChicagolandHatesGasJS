@@ -1,8 +1,8 @@
 {
-  "name": "CDC",
+  "name": "fuel-map",
   "description": "",
   "main": "index.js",
-  "authors": [
+  "authors": [ "Christopher Siems"
   ],
   "license": "ISC",
   "moduleType": [],
